@@ -11,6 +11,8 @@ var CommentSchema = new Schema({
   }
 });
 
+//fixed
+
 // Mongoose will automatically save the ObjectIds of the comments
 // These ids are referred to in the Article model
 
